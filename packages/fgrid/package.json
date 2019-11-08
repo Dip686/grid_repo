@@ -24,6 +24,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "package1": "1.0.3"
+    "package1": "^1.0.5"
   }
 }

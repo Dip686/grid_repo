@@ -1,3 +1,2 @@
-export function fGridFunc(){
-  console.log('call from fGrid');
-}
+import { callFun } from 'package1';
+console.log(callFun());
